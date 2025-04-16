@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @DizzeyOh
+- 👋 Hi, I’m @Dizzy
 - 👀 I’m interested in all things code. Automated Bots, GUI's, Putty Servers
-- 🌱 I’m currently learning Server based software
-- 💞️ I’m looking to collaborate on any and all projects
-- 📫 How to reach me dizzeyoh@gmail.com
-- 😄 Pronouns: The Myth / The Legend
+- 🌱 I’m currently learning Server based software, Network Administration mainly Cisco equipment. Software side; Kali Linux, Ubuntu
+- 💞️ I’m looking to collaborate on any and all projects i can get my hands on. Trying too build a social portoflio. 
+- 📫 How to reach me dizzeyoh@gmail.com | dizzeyoh on discord
+- 😄 Pronouns: Him
 - ⚡ Fun fact: Ex Military, Self taught
 
 <!---
